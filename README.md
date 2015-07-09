@@ -11,12 +11,10 @@ Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 * p = padding
 * f = float
 * pos = position
-
 - t = top
 - r = right
 - b = bottom
 - l = left
-
 * n = 0px || none
 * xs = 5px
 * sm = 15px
@@ -31,5 +29,8 @@ Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 
 * Para adicionar preenchimento de 15px:
 `<div class="p-sm"></div>`
+
+* Para adicionar margem à direita de 5px:
+`<div class="m-r-sm"></div>`
 
 ##Bom Trabalho!
