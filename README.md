@@ -26,5 +26,10 @@ lg = 50px;
 hd = hide;
 
 #Exemplo
-Para adicionar margem de 30px em um elemento div:
-<div class="m-md"></div>
+- Para adicionar margem de 30px em um elemento div:
+    <div class="m-md"></div>
+
+- Para adicionar preenchimento de 15px:
+    <div class="p-sm"></div>
+
+#Bom Trabalho!
