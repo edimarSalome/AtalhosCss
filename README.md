@@ -19,6 +19,7 @@ Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 - r = right
 - b = bottom
 - l = left
+
 ####Tamanhos
 * n = 0px || none
 * xs = 5px
