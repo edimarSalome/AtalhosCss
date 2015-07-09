@@ -7,29 +7,29 @@ Para utilizar é simples, basta incluir o arquivo em sua página:
 ##Utilizando os Atalhos
 Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 
-*m = margin
-*p = padding
-*f = float
-*pos = position
+* m = margin
+* p = padding
+* f = float
+* pos = position
 
--t = top
--r = right
--b = bottom
--l = left
+- t = top
+- r = right
+- b = bottom
+- l = left
 
-*n = 0px || none
-*xs = 5px
-*sm = 15px
-*md = 30px
-*lg = 50px
+* n = 0px || none
+* xs = 5px
+* sm = 15px
+* md = 30px
+* lg = 50px
 
--hd = hide
+- hd = hide
 
 ##Exemplo
-*Para adicionar margem de 30px em um elemento div:
+* Para adicionar margem de 30px em um elemento div:
 `<div class="m-md"></div>`
 
-*Para adicionar preenchimento de 15px:
+* Para adicionar preenchimento de 15px:
 `<div class="p-sm"></div>`
 
 ##Bom Trabalho!
