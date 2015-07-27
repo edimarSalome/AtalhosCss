@@ -1,7 +1,7 @@
 # AtalhosCss
 Alguns atalhos css para facilitar posicionamento de elementos.
 
-Para utilizar é simples, basta incluir o arquivo em sua página:
+Para utilizar AtalhosCss, basta incluir o arquivo em sua página:
 `<link href="lib/css/atalhos.min.css" rel="stylesheet" type="text/css" />`
 
 ##Utilizando os Atalhos
