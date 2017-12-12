@@ -4,30 +4,30 @@ Alguns atalhos css para facilitar posicionamento de elementos.
 Para utilizar AtalhosCss, basta incluir o arquivo em sua página:
 `<link href="lib/css/atalhos.min.css" rel="stylesheet" type="text/css" />`
 
-##Utilizando os Atalhos
+## Utilizando os Atalhos
 Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 
-####Característica
+#### Característica
 * m = margin
 * p = padding
 * f = float
 * pos = position
 * hd = hide
 
-####Posição
+#### Posição
 - t = top
 - r = right
 - b = bottom
 - l = left
 
-####Tamanhos
+#### Tamanhos
 * n = 0px || none
 * xs = 5px
 * sm = 15px
 * md = 30px
 * lg = 50px
 
-##Exemplo
+## Exemplo
 * Para adicionar margem de 30px em um elemento div:
 `<div class="m-md"></div>`
 
@@ -37,4 +37,4 @@ Para utilizar os atalhos basta inserir as opções na classe do elemento HTML.
 * Para adicionar margem à direita de 5px:
 `<div class="m-r-sm"></div>`
 
-##Bom Trabalho!
+## Bom Trabalho!
